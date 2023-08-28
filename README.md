@@ -51,11 +51,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="src/image/app.jpg" alt="screen">
+<img src="src/nutrition-app.jpg" alt="screen">
 
-This project about how to make a weather app. 
-* To display the weather, you need to enter the city you are interested in.
-* The home page reflects the weather in the largest cities of the world.
+The app analyzes food products. Enter the name of the food and its quantity and you will get a complete analysis of the nutrients.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
